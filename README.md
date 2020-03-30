@@ -12,7 +12,7 @@ It was becoming more and more common among my clients that they consolidate thei
 
 1. [The custom post type you'd like to use this on must have "show_in_rest" set to true in its registration function.](https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-rest-api-support-for-custom-content-types/)
 
-2. Ensure that the REST API Extension plugin is installed and enabled.
+2. [Ensure that the REST API Extension plugin is installed and enabled.](https://github.com/TheeBryanWhite/WP-RC-API-Extension)
 
 3. Node & npm
 
